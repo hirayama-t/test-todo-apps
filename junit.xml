@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="5.086">
+  <testsuite name="App コンポーネント" errors="0" failures="0" skipped="0" timestamp="2025-12-18T01:33:18" time="2.85" tests="10">
+    <testcase classname="App コンポーネント TestApp を描画する" name="App コンポーネント TestApp を描画する" time="0.171">
+    </testcase>
+    <testcase classname="index.js Appが正常にレンダリングされる" name="index.js Appが正常にレンダリングされる" time="0.021">
+    </testcase>
+    <testcase classname="TestApp コンポーネント 初期表示でタスクがない旨が表示される" name="TestApp コンポーネント 初期表示でタスクがない旨が表示される" time="0.018">
+    </testcase>
+    <testcase classname="TestApp コンポーネント タスクを追加できる" name="TestApp コンポーネント タスクを追加できる" time="0.061">
+    </testcase>
+    <testcase classname="TestApp コンポーネント タスクの重要フラグを切り替えられる" name="TestApp コンポーネント タスクの重要フラグを切り替えられる" time="0.046">
+    </testcase>
+    <testcase classname="TestApp コンポーネント 空欄で追加しようとするとアラートが出る" name="TestApp コンポーネント 空欄で追加しようとするとアラートが出る" time="0.023">
+    </testcase>
+    <testcase classname="TestApp コンポーネント タスクを完了にできる" name="TestApp コンポーネント タスクを完了にできる" time="0.173">
+    </testcase>
+    <testcase classname="TestApp コンポーネント タスクを削除できる" name="TestApp コンポーネント タスクを削除できる" time="0.061">
+    </testcase>
+    <testcase classname="TestApp コンポーネント フィルタボタンで未完了・完了を切り替えられる" name="TestApp コンポーネント フィルタボタンで未完了・完了を切り替えられる" time="0.172">
+    </testcase>
+    <testcase classname="TestApp コンポーネント 件数表示が正しい" name="TestApp コンポーネント 件数表示が正しい" time="0.088">
+    </testcase>
+  </testsuite>
+</testsuites>
